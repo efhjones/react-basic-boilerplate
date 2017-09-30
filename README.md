@@ -6,4 +6,14 @@ This has been installed from scratch to avoid any dependencies I don't really ne
 
 ## Setup
 
-Just fork and `npm install`.
+`npm install`
+
+## Build
+ 
+`npm run compile`
+
+## Start Dev Server
+ 
+`npm start`
+ 
+ 
