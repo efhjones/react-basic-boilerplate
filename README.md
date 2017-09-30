@@ -4,6 +4,6 @@ This is my personal site project. I maintain my own personal site and use it as 
 
 This has been installed from scratch to avoid any dependencies I don't really need.
 
-## Copy Me
+## Setup
 
-Just fork the repo and `npm install`.
+Just fork and `npm install`.
